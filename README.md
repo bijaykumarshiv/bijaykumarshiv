@@ -18,7 +18,7 @@
 
 <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 <p align="center">
- <a href="https://www.linkedin.com/in/bijay-kumar-yadav-b0b75827b" target="blank">
+ <a href="https://www.linkedin.com/in/bijay-kumar-522938237/" target="blank">
   <img align="center" alt="Bijay's LinkedIn" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://instagram.com/bijay____kumar?igshid=MzNlNGNkZWQ4Mg==" target="blank">
