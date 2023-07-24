@@ -1,6 +1,6 @@
 <!-- REMODIFYING WHOLE README SOON -->
 
-## Hi there, I'm Bijay - aka [bijaykumarshiv][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi there, I'm Bijay Kumar Yadav <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ### I'm a Student, Developer, and Learner!
 - 🔭 I’m currently pursuing B.Tech in CSE!
